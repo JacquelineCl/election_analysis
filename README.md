@@ -10,11 +10,13 @@ The purpose of this Election Audit is to provide the election commission electio
 ## Election Audit Results
 The results of this audit are:
 * Total votes cast: 369,711
-* ![County results image](https://github.com/JacquelineCl/election_analysis/blob/7c156d4987432dfd3ab7cebb19913b261285d525/Resources/county_results.PNG)
+* County results were:
+ ![County results image](https://github.com/JacquelineCl/election_analysis/blob/7c156d4987432dfd3ab7cebb19913b261285d525/Resources/county_results.PNG)
 * Denver county had the largest number of votes
 * Candidate results were: 
 ![Candidate results image](https://github.com/JacquelineCl/election_analysis/blob/6b89ee4286bae5bbeab5ffb3a9faf11ddf417eaf/Resources/candidate_results.PNG)
-* ![Winner results image](https://github.com/JacquelineCl/election_analysis/blob/6b89ee4286bae5bbeab5ffb3a9faf11ddf417eaf/Resources/winner_results.PNG)
+* Election winner was:
+![Winner results image](https://github.com/JacquelineCl/election_analysis/blob/6b89ee4286bae5bbeab5ffb3a9faf11ddf417eaf/Resources/winner_results.PNG)
 
 ## Election Audit Summary
 This script can be used for future elections by:
